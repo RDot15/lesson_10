@@ -1,0 +1,12 @@
+{
+    "tasks": [
+
+        {
+            "label": "My Task",
+            "type": "shell",
+            "command": "make",
+            "group": "build",
+            "problemMatcher": []
+        }
+    ]
+}
